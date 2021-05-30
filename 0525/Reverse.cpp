@@ -2,7 +2,6 @@
 #include <string>
 using namespace std;
 
-
 string output;
 
 void Reverse(string input, int GroupNum, int ReverseNum)
